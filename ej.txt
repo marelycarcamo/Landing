@@ -1,3 +1,7 @@
 ok
+<<<<<<< HEAD
 ahora en la rama
 otra modificacion
+=======
+en la main
+>>>>>>> main
